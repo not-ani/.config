@@ -1,2 +1,6 @@
+# discaimer 
+credit to ThePrimeagen/init.lua for the original/base neovim config.
+
 # nvim
-my config for neovim (credit to ThePrimeagen/init.lua) for the original. 
+my configs for everything (just neovim right now working on rices)
+
